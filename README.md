@@ -4,73 +4,114 @@ All the nostalgia. Without the grind.
 
 Remember the original Gran Turismo? Brilliant cars, brilliant racing, brilliant soundtrack... and an absolutely ridiculous amount of grinding if you wanted the good stuff.
 
-Well, we've had a little fiddle with it.
+Well, we've had a little fiddle with it. 😂
 
-Gran Turismo Ultimate is an unofficial fan-made enhancement of the original 1997 PlayStation classic, designed to make revisiting GT Mode more enjoyable without turning the driving physics into complete nonsense.
+Welcome to Gran Turismo Ultimate, a free, unofficial fan-made enhancement of the original 1997 PlayStation classic.
 
-What's changed?
+The idea is simple: make GT Mode more enjoyable, give players access to some previously difficult-to-obtain cars, and keep the original Gran Turismo driving experience intact.
 
-- Expanded dealerships: Buy additional cars that previously required winning events or weren't normally available from dealerships.
-- 5,000,000 starting credits: Forget spending your first evening scraping together enough money for something decent.
-- More forgiving licences: All 24 licence examinations have been successfully tested using our revised difficulty targets.
-- Improved dealership graphics: Custom lettering and visual improvements across eight manufacturers.
-- Original driving experience: No experimental mega-tuning or ridiculous performance modifications.
-- Optional DuckStation codes: MPH speedometer option and Shitbox Challenge budgets of 10,000, 20,000 or 30,000 credits.
+🚗 What's different?
 
-Fancy buying a NISMO 400R without doing endless licence challenges?
+- Expanded dealerships — Buy additional prize cars and other previously unavailable vehicles.
+- 5,000,000 starting credits — Because sometimes you just want to buy a bloody car.
+- More forgiving licences — Revised targets across all 24 licence examinations.
+- Improved dealership graphics — Custom lettering and improvements across eight manufacturers.
+- Original driving physics — No ridiculous mega-tuning or completely overpowered engines.
+- Optional MPH speedometer — For those of us who prefer miles per hour.
+- Shitbox Challenge — Start with 10,000, 20,000 or 30,000 credits instead of five million.
 
-Go for it.
+Fancy the NISMO 400R without spending half your life unlocking it?
 
-Want to take a 1967 Corvette into an entry-level race?
+Buy it.
 
-Nobody's stopping you.
+Fancy taking a 1967 Corvette into an entry-level race?
 
-⚠️ Important — Arcade Mode is currently broken
+Go right ahead.
 
-This is a GT Mode-focused public test release.
+📦 Two ways to enjoy it
 
-Arcade Single Race and Time Trial currently encounter a black screen during race loading.
+1. Gran Turismo Ultimate — Full Modification
 
-The issue is known and has been isolated to this graphics-restored version. We intend to investigate a repair in a future update.
+Download: "GT_Ultimate_v1.0.zip"
 
-GT Mode has passed our initial tests, including all 24 licence examinations. However, the entire career has not yet been exhaustively tested, and additional issues may exist.
+The complete BPS modification, including the expanded dealerships, revised licence times, improved graphics and five-million-credit starting budget.
 
-Please download with that limitation in mind.
+Includes installation instructions, a matching CUE file, optional DuckStation codes and verification information.
 
-Installation
+2. Optional DuckStation Patch Codes — Standalone Download
 
-You must own a copy of the original European PAL Gran Turismo (SCES-00984).
+Download: "GT_Ultimate_Optional_Codes_v1.0.txt"
 
-Download "Gran_Turismo_Ultimate_v1.0_Public_Test.zip" from the Assets section below.
+Don't fancy installing the entire modification?
 
-Extract the archive, then use a compatible BPS patcher to apply "Gran Turismo Ultimate.bps" to your untouched original PAL game BIN.
+We're also making our optional patch codes available separately:
 
-Name the patched output "Gran Turismo Ultimate.bin" and place it beside the supplied "Gran Turismo Ultimate.cue".
+- MPH speedometer selector
+- Shitbox Challenge — 10,000 credits
+- Shitbox Challenge — 20,000 credits
+- Shitbox Challenge — 30,000 credits
 
-Load the CUE in DuckStation.
+These codes were reported working on our European PAL Ultimate V3 test build. Compatibility with other builds, including an unmodified GT1, has not been independently confirmed.
 
-Full instructions, checksums and optional codes are included in the ZIP.
+The starting-budget codes are manually triggered using SELECT. Disable the selected money code after use and save normally. Back up your memory card before experimenting.
 
-Keep your original game image and memory-card backups safe.
+No BPS modification is required to enter standalone codes in DuckStation.
 
-A few important bits
+⚠️ Known issue — Arcade Mode
 
-This is a free, unofficial fan project by JORBE.
+Let's get this one out of the way.
 
-Gran Turismo and its associated intellectual property belong to their respective rights holders. This release is not affiliated with or endorsed by Sony or Polyphony Digital.
+Arcade Single Race and Time Trial currently black-screen during race loading.
 
-No original game BIN or ISO is included.
+This public test release is primarily intended for GT Mode.
 
-Please report any issues you encounter, ideally with the car, event, emulator and circumstances.
+GT Mode has passed initial gameplay testing, including all 24 licence examinations, dealership purchasing and garage save/load checks.
 
-Final words
+However, a complete career playthrough has not yet been verified, and further issues may exist.
 
-This project exists because the original Gran Turismo is still bloody brilliant.
+We're aware of the Arcade problem and intend to investigate it for a future update.
 
-We've just made it a little easier to enjoy in 2026.
+🔧 Installation
+
+You'll need your own original European PAL Gran Turismo (SCES-00984).
+
+For the full modification:
+
+1. Download "GT_Ultimate_v1.0.zip" from the Assets section.
+2. Extract the ZIP.
+3. Apply the included BPS patch to your untouched original PAL BIN using UniPatcher or another compatible patcher.
+4. Name the patched game image "Gran Turismo Ultimate.bin".
+5. Keep it beside the supplied "Gran Turismo Ultimate.cue".
+6. Load the CUE in DuckStation and enjoy!
+
+Full instructions are included in the package.
+
+For optional codes only, download the standalone codes file and follow its instructions using DuckStation.
+
+Keep your original game files and memory-card backups safe.
+
+🛠️ Help us improve it
+
+This is our first public test, and feedback is welcome!
+
+Found a problem? Open a GitHub Issue and tell us which car, event and emulator you're using, plus what went wrong.
+
+❤️ A little note from JORBE
+
+This project started as a bit of messing about with an old PlayStation game.
+
+One extra Nissan dealership car turned into a whole collection of changes, testing, fixes and the occasional spectacular crash.
+
+And now we're sharing it.
+
+Gran Turismo is still bloody brilliant. We've just made it a little easier to enjoy.
 
 Don't approve? Play the original. Nobody's forcing you here. 😂
 
-Enjoy!
+Happy racing!
 
 — JORBE
+
+---
+
+Gran Turismo Ultimate is a free, unofficial fan project. Not affiliated with or endorsed by Sony or Polyphony Digital. All original Gran Turismo intellectual property belongs to its respective rights holders. No copyrighted game BIN or ISO is included.
